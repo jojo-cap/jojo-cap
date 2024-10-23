@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jojo-cap
-- 👀 I’m interested in ... AI/ML,coding,hackathons,cp 
-- 🌱 I’m currently learning ... python,AI/ML
+- 👀 I’m interested in ... WebD,CP,Hackathons 
+- 🌱 I’m currently learning ... Full Stack Web Development
 - 💞️ I’m looking to collaborate on ... Innovative projects,revolutionary ideas
 - 📫 How to reach me ... rajeevranjansingh1161@gmail.com
 
